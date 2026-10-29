@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlopCodeReal/TSB-Dandy-Fighter-Moveset/refs/heads/main/dandy.lua"))()

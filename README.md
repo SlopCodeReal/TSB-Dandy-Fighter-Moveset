@@ -6,7 +6,7 @@
 	Block ... TSB's own block animation (10470389827) drives Dandy's block: while it plays Dandy blocks, when it stops Dandy stops.
 	Walk .... Dandy's idle, walk and stop-walk replace the game's while you are on the ground. Emotes (and, by default, any other
 	         action animation such as dashes or hit reactions) pause every custom animation until they are done.
-	Moves ... your hotbar is replaced (like your template does) by 3 Dandy moves, made with the Custom Weapon library:
+	Moves ... your hotbar is replaced by 3 Dandy moves, made with the Custom Weapon library:
 	         1 Dash   2 Charge   3 Leap
 	         They are movement + animation only: TSB deals damage on the server, so these moves do not hurt anyone.
 
